@@ -1,0 +1,17 @@
+<h1 id="tableLabel">Vehicles</h1>
+
+<p *ngIf="!vehicles"><em>Loading...</em></p>
+
+<table class='table table-striped' aria-labelledby="tableLabel" *ngIf="vehicles">
+  <thead>
+    <tr>
+      <th>Year</th>
+      <th>Make</th>
+      <th>Model</th>
+      <th>Trim</th>
+      <th>Vin Pattern</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>

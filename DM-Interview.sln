@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DB-Interview", "DB-Interview\DB-Interview.sqlproj", "{D387D340-C354-4778-9D4A-4F89A177A8A1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PmcDeveloperAssessment", "..\..\PmcDeveloperAssessment\PmcDeveloperAssessment\PmcDeveloperAssessment.csproj", "{E17D3C9E-DC3C-4BAB-966F-EAE61C7C4810}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PmcDeveloperAssessment", "PmcDeveloperAssessment\PmcDeveloperAssessment.csproj", "{55A853A4-6D5A-4A14-9F7B-A77FE99C43CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +19,10 @@ Global
 		{D387D340-C354-4778-9D4A-4F89A177A8A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D387D340-C354-4778-9D4A-4F89A177A8A1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D387D340-C354-4778-9D4A-4F89A177A8A1}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{E17D3C9E-DC3C-4BAB-966F-EAE61C7C4810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E17D3C9E-DC3C-4BAB-966F-EAE61C7C4810}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E17D3C9E-DC3C-4BAB-966F-EAE61C7C4810}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E17D3C9E-DC3C-4BAB-966F-EAE61C7C4810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A853A4-6D5A-4A14-9F7B-A77FE99C43CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A853A4-6D5A-4A14-9F7B-A77FE99C43CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A853A4-6D5A-4A14-9F7B-A77FE99C43CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A853A4-6D5A-4A14-9F7B-A77FE99C43CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
