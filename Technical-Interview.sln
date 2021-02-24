@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DB-Interview", "DB-Interview\DB-Interview.sqlproj", "{D387D340-C354-4778-9D4A-4F89A177A8A1}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DB-Technical-Interview", "DB-Technical-Interview\DB-Technical-Interview.sqlproj", "{D387D340-C354-4778-9D4A-4F89A177A8A1}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PmcDeveloperAssessment", "..\..\PmcDeveloperAssessment\PmcDeveloperAssessment\PmcDeveloperAssessment.csproj", "{E17D3C9E-DC3C-4BAB-966F-EAE61C7C4810}"
 EndProject
